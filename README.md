@@ -7,17 +7,18 @@ O algoritmo apresentado nesse trabalho tem como objetivo a execução do cálcul
 
 *Software apresentado como trabalho de conclusão semestral (1) para o curso Técnico em Informática com Habilitação em Desenvolvimento de Software, CEDUP Timbó - Centro de Educação Profissional. Timbó, SC. Brasil.*
 
-## Prerequisites
+## Pré-requisitos
 
 - VisualG (committed)
+- [Dia (para abrir um fluxogramas)](http://dia-installer.de/)
 
-## How to run
+## Como rodar
 
 1. Executar VisuAlg 2.5.exe
 2. Abrir o arquivo code.alg
 3. Executar
 
-## Aditional info
+## Informações adicionais
 
 This project was created in 2013, and was my first programming project, so be aware that this is the worst code you've ever seen. Be warned =)
 
